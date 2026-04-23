@@ -8,4 +8,6 @@ Modern gaming interface with responsive design and advanced styling.
 - Smooth user experience
 
 ## Tech Stack
-HTML, CSS, JavaScript
+HTML, CSS
+
+Live Demo: https://dyat-proj.vercel.app
